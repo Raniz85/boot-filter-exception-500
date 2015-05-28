@@ -1,0 +1,12 @@
+# Project files
+config-local.yml
+logback-local.groovy
+
+# IDEA files
+*.iml
+.idea
+
+# Gradle files
+.gradle
+build
+bin
